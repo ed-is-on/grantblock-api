@@ -1,0 +1,11 @@
+{
+    "IdCard" : {
+      "cardname": "admin@grantblock"
+    },
+    "local_config_1_1": {
+      "participantId" : "admin",
+      "participantPwd" : "adminpw",
+      "businessNetworkIdentifier" : "grantblock",
+      "connectionProfile" : "hlfv1"
+    }
+  }

@@ -1,0 +1,25 @@
+{
+  "name": "grantblock-api",
+  "version": "1.0.0",
+  "description": "rest server to test composer identity functionality",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "restify"
+  ],
+  "author": "Michael Youngdahl",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "nodemon": "^1.18.4",
+    "restify": "^7.2.1",
+    "restify-errors": "^6.1.1",
+    "composer-admin": "^0.19.14",
+    "composer-client": "^0.19.14",
+    "composer-common": "^0.19.14",
+    "composer-connector-hlfv1": "^0.19.14",
+    "winston": "^2.3.0"
+  }
+}
